@@ -1,10 +1,10 @@
 #include <stdio.h>
 #define start int main(){
 #define then ){
-#ifdef linux
+#ifdef __linux__
     #include <unistd.h>
     #define sleep(sec) sleep(sec);
-#elif WIN32
+#elif __WIN32__
     #include <windows.h>
     #define sleep(miliSec) Sleep(miliSec);
 #endif
