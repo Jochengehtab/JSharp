@@ -12,11 +12,15 @@
 - [Example](#example)
 
 ## About <a name = "about"></a>
-It is a fun Project
+It is a fun Project. 
+**Important:  It is not the Programming Language __J__ or __J#__**
+The "Programming Language" removes or replaces Semicolons (not all...)
+and has a little bit differnt Syntex to C but it is near to Lua.
 
 ### Use
-Use the JSharp.h
+Download the JSharp.h Data (or Copy and paste the Source-Code of JSharp.h)
+And then include it in your C - Project.
 
 #### Example
 This is a **simple** example of how to use the Header Data.
-[![carbon.png](https://i.postimg.cc/Vsjzzztj/carbon.png)](https://postimg.cc/qgMPLVjR)
+[![carbon.png](https://i.postimg.cc/Vsjzzztj/carbon.png)](https://postimg.cc/qgMPLVjR) 
