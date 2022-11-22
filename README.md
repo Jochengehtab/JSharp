@@ -6,5 +6,5 @@
 ##menu
 - [About](#about)
 
-##about
+##about <a name = "about"></a>
 It is a fun Project
