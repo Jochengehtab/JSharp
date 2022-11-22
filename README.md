@@ -5,7 +5,7 @@
 
 ## Menu
 - [About](#about)
-- [Use] (#use)
+- [Use](#use)
 
 ## About <a name = "about"></a>
 It is a fun Project
