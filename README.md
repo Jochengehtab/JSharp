@@ -1,7 +1,10 @@
-# JSharp [![J-Sharp.png](https://i.postimg.cc/mrbHydGn/J-Sharp.png)](https://postimg.cc/yDbxVyxh)
-<p align="center"> It my "own" language writen in C
-    <br> 
+p align="center">
+    <a href="https://i.postimg.cc/mrbHydGn/J-Sharp.png" rel="noopener">
+        <img width=350px height=175px src="https://i.imgur.com/05lY09v.png" alt="Project logo">
+    </a>
 </p>
+
+<h3 align="center">**J Sharp**</h3>
 
 ## Menu
 - [About](#about)
