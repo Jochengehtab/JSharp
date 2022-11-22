@@ -1,6 +1,6 @@
 p align="center">
     <a href="https://i.postimg.cc/mrbHydGn/J-Sharp.png" rel="noopener">
-        <img width=350px height=175px src="https://i.imgur.com/05lY09v.png" alt="Project logo">
+        <img width=350px height=175px src="https://i.postimg.cc/mrbHydGn/J-Sharp.png">
     </a>
 </p>
 
