@@ -3,8 +3,12 @@
     <br> 
 </p>
 
-##menu
+## Menu
 - [About](#about)
+- [Use] (#use)
 
 ## About <a name = "about"></a>
 It is a fun Project
+
+## Use
+Use the JSharp.h
