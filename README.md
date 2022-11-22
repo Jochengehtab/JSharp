@@ -13,7 +13,7 @@
 
 ## About <a name = "about"></a>
 It is a fun Project. 
-**Important:  It is not the Programming Language __J__ or __J#__**
+**Important:  It is not the Programming Language ** __J__ **or** __J#__**!**
 The "Programming Language" removes or replaces Semicolons (not all...)
 and has a little bit differnt Syntex to C but it is near to Lua.
 
