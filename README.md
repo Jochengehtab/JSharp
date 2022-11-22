@@ -10,5 +10,5 @@
 ## About <a name = "about"></a>
 It is a fun Project
 
-## Use
+## Use <a name = "use"></a>
 Use the JSharp.h
