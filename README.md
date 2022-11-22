@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Jochengehtab/JSharp" rel="noopener">
-        <img width=350px height=175px src="https://i.postimg.cc/mrbHydGn/J-Sharp.png">
+        <img width=790px height=150px src="https://i.postimg.cc/mrbHydGn/J-Sharp.png">
     </a>
 </p>
 
