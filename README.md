@@ -20,7 +20,7 @@ and has a little bit differnt Syntex to C but it is near to Lua.
 ### Use
 Download the JSharp.h Data (or Copy and paste the Source-Code of JSharp.h)
 And then include it in your C - Project.
-https://img.shields.io/github/downloads/Jochengehtab/JSharp/total?style=for-the-badge
+![GitHub all releases](https://img.shields.io/github/downloads/Jochengehtab/JSharp/total?style=for-the-badge)
 
 #### Example
 This is a **simple** example of how to use the Header Data.
